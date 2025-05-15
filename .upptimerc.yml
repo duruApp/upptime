@@ -14,6 +14,7 @@ sites:
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/database
   - name: Duru Realtime Databases
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/realtime_database
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/database.png
   - name: Duru Telephony Services
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony
   - name: Duru AI Services

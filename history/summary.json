@@ -70,5 +70,41 @@
     "timeMonth": 361,
     "timeYear": 361,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Duru Telephony Services",
+    "url": "https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony",
+    "icon": "https://icons.duckduckgo.com/ip3/duru-backend-wut4zsxq6q-nw.a.run.app.ico",
+    "slug": "duru-telephony-services",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 315,
+    "timeDay": 315,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Duru AI Services",
+    "url": "https://duru-backend-wut4zsxq6q-nw.a.run.app/status/ai",
+    "icon": "https://icons.duckduckgo.com/ip3/duru-backend-wut4zsxq6q-nw.a.run.app.ico",
+    "slug": "duru-ai-services",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
+    "dailyMinutesDown": {}
   }
 ]

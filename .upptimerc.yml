@@ -14,17 +14,17 @@ sites:
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/database
   - name: Duru Realtime Databases
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/realtime_database
-#  - name: Duru Telephony Services
-#    url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony
-#  - name: Duru AI Services
-#    url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/ai
+  - name: Duru Telephony Services
+    url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony
+  - name: Duru AI Services
+    url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/ai
   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.duru.app
-  baseUrl: /upptime
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Duru Uptime
   introTitle: "**Duru** Uptime monitoring"

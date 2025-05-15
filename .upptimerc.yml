@@ -8,17 +8,22 @@ assignees:
 sites:
   - name: Duru App Hosting
     url: https://go.duru.app
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/app.png
   - name: Duru API
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/api.png
   - name: Duru Databases
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/database
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/database.png
   - name: Duru Realtime Databases
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/realtime_database
-    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/database.png
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/data-processing.png
   - name: Duru Telephony Services
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png
   - name: Duru AI Services
     url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/ai
+    icon: https://raw.githubusercontent.com/duruapp/upptime/master/assets/ai.png
   
 
 status-website:

@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Duru Uptime
   introTitle: "**Duru** Uptime monitoring"
-  introMessage: Please contact support@duru.app to resolve any problems.
+  introMessage: Please get in touch with support@duru.app to resolve any problems.
   navbar:
     - title: Status
       href: /

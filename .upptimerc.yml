@@ -29,8 +29,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Duru Uptime Monitor
-      href: https://duruapp.github.io/upptime/
+    - title: Duru Login
+      href: https://go.duruapp.app
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

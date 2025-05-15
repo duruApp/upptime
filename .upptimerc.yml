@@ -22,7 +22,7 @@ status-website:
     - title: Status
       href: /
     - title: Duru Login
-      href: https://go.duruapp.app
+      href: https://go.duru.app
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -27,5 +27,8 @@ status-website:
     - title: Duru Login
       href: https://go.duru.app
 
+i18n:
+  footer: Duru Tech Ltd
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

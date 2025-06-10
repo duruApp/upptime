@@ -94,17 +94,19 @@
     "url": "https://duru-backend-wut4zsxq6q-nw.a.run.app/status/ai",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/ai.png",
     "slug": "duru-ai-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 189,
-    "timeWeek": 214,
-    "timeMonth": 189,
-    "timeYear": 189,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 201,
+    "timeWeek": 213,
+    "timeMonth": 190,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   }
 ]

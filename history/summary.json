@@ -42,19 +42,19 @@
     "url": "https://duru-backend-wut4zsxq6q-nw.a.run.app/status/database",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/database.png",
     "slug": "duru-databases",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "70.91%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.50%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "69.47%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.48%",
     "time": 134,
-    "timeDay": 244,
-    "timeWeek": 176,
-    "timeMonth": 136,
+    "timeDay": 216,
+    "timeWeek": 170,
+    "timeMonth": 135,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2025-07-12": 419
+      "2025-07-12": 440
     }
   },
   {

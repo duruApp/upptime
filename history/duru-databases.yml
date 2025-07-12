@@ -1,7 +1,7 @@
 url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/database
-status: up
-code: 200
-responseTime: 104
-lastUpdated: 2025-07-11T23:09:18.471Z
+status: down
+code: 400
+responseTime: 430
+lastUpdated: 2025-07-12T12:13:44.922Z
 startTime: 2025-05-15T11:15:33.232Z
 generator: Upptime <https://github.com/upptime/upptime>

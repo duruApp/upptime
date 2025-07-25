@@ -62,10 +62,10 @@
     "url": "https://duru-backend-wut4zsxq6q-nw.a.run.app/status/realtime_database",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/data-processing.png",
     "slug": "duru-realtime-databases",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
@@ -73,7 +73,9 @@
     "timeWeek": 177,
     "timeMonth": 179,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-25": 1
+    }
   },
   {
     "name": "Duru Telephony Services",

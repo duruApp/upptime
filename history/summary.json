@@ -76,18 +76,20 @@
     "url": "https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png",
     "slug": "duru-telephony-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 339,
-    "timeWeek": 293,
-    "timeMonth": 294,
-    "timeYear": 292,
-    "dailyMinutesDown": {}
+    "time": 291,
+    "timeDay": 278,
+    "timeWeek": 284,
+    "timeMonth": 292,
+    "timeYear": 291,
+    "dailyMinutesDown": {
+      "2025-08-11": 0
+    }
   },
   {
     "name": "Duru AI Services",

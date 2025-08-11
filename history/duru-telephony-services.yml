@@ -1,7 +1,7 @@
 url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/telephony
-status: down
-code: 400
-responseTime: 217
-lastUpdated: 2025-08-11T15:22:53.870Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2025-08-11T15:43:59.330Z
 startTime: 2025-05-15T11:42:53.158Z
 generator: Upptime <https://github.com/upptime/upptime>

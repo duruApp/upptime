@@ -4,7 +4,7 @@
     "url": "https://go.duru.app",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/app.png",
     "slug": "duru-app-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 840,
     "timeMonth": 926,
     "timeYear": 1277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-17": 0
+    }
   },
   {
     "name": "Duru API",

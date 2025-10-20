@@ -1,7 +1,7 @@
-url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/ai
+url: https://api.duru.app/status/ai
 status: up
 code: 200
-responseTime: 244
-lastUpdated: 2025-10-19T23:07:52.879Z
+responseTime: 184
+lastUpdated: 2025-10-20T23:07:54.389Z
 startTime: 2025-05-15T11:42:53.849Z
 generator: Upptime <https://github.com/upptime/upptime>

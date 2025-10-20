@@ -1,7 +1,7 @@
-url: https://duru-backend-wut4zsxq6q-nw.a.run.app/status/realtime_database
+url: https://api.duru.app/status/realtime_database
 status: up
 code: 200
-responseTime: 220
-lastUpdated: 2025-10-19T23:07:51.992Z
+responseTime: 163
+lastUpdated: 2025-10-20T23:07:53.615Z
 startTime: 2025-05-15T11:15:34.256Z
 generator: Upptime <https://github.com/upptime/upptime>

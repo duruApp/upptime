@@ -4,18 +4,20 @@
     "url": "https://go.duru.app",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/app.png",
     "slug": "duru-app-hosting",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 263,
+    "time": 1173,
+    "timeDay": 282,
     "timeWeek": 305,
-    "timeMonth": 563,
-    "timeYear": 1178,
-    "dailyMinutesDown": {}
+    "timeMonth": 555,
+    "timeYear": 1173,
+    "dailyMinutesDown": {
+      "2025-11-03": 0
+    }
   },
   {
     "name": "Duru API",
@@ -79,7 +81,7 @@
     "status": "up",
     "uptime": "98.29%",
     "uptimeDay": "97.92%",
-    "uptimeWeek": "82.40%",
+    "uptimeWeek": "82.71%",
     "uptimeMonth": "90.46%",
     "uptimeYear": "98.29%",
     "time": 310,

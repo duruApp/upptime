@@ -1,7 +1,7 @@
 url: https://api.duru.app/status/database
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-06T07:44:28.393Z
+status: up
+code: 200
+responseTime: 95
+lastUpdated: 2025-11-06T07:52:50.586Z
 startTime: 2025-05-15T11:15:33.232Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -24,19 +24,19 @@
     "url": "https://api.duru.app/status",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/api.png",
     "slug": "duru-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 483,
-    "timeWeek": 478,
-    "timeMonth": 334,
-    "timeYear": 212,
+    "time": 213,
+    "timeDay": 423,
+    "timeWeek": 464,
+    "timeMonth": 335,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-11-06": 3
+      "2025-11-06": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.duru.app/status/database",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/database.png",
     "slug": "duru-databases",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 149,
-    "timeWeek": 144,
-    "timeMonth": 122,
+    "timeDay": 122,
+    "timeWeek": 138,
+    "timeMonth": 121,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-11-06": 2
+      "2025-11-06": 8
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api.duru.app/status/realtime_database",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/data-processing.png",
     "slug": "duru-realtime-databases",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 221,
-    "timeWeek": 191,
-    "timeMonth": 180,
+    "timeDay": 197,
+    "timeWeek": 189,
+    "timeMonth": 179,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-11-06": 0
+      "2025-11-06": 7
     }
   },
   {
@@ -86,9 +86,9 @@
     "slug": "duru-telephony-services",
     "status": "down",
     "uptime": "97.73%",
-    "uptimeDay": "4.84%",
-    "uptimeWeek": "85.00%",
-    "uptimeMonth": "87.08%",
+    "uptimeDay": "4.37%",
+    "uptimeWeek": "84.94%",
+    "uptimeMonth": "87.06%",
     "uptimeYear": "97.73%",
     "time": 310,
     "timeDay": 278,
@@ -96,7 +96,7 @@
     "timeMonth": 292,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-11-06": 466,
+      "2025-11-06": 473,
       "2025-11-05": 969,
       "2025-11-04": 34,
       "2025-11-03": 42,

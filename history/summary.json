@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 915,
-    "timeDay": 501,
-    "timeWeek": 333,
+    "time": 912,
+    "timeDay": 329,
+    "timeWeek": 360,
     "timeMonth": 306,
-    "timeYear": 915,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2025-11-03": 31
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 421,
-    "timeWeek": 473,
-    "timeMonth": 451,
-    "timeYear": 281,
+    "time": 282,
+    "timeDay": 595,
+    "timeWeek": 502,
+    "timeMonth": 457,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2025-11-06": 10
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 110,
-    "timeWeek": 165,
-    "timeMonth": 129,
+    "timeDay": 154,
+    "timeWeek": 173,
+    "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-11-06": 8
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 172,
-    "timeWeek": 208,
-    "timeMonth": 196,
-    "timeYear": 185,
+    "time": 186,
+    "timeDay": 217,
+    "timeWeek": 216,
+    "timeMonth": 198,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2025-11-06": 7
     }
@@ -85,15 +85,15 @@
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png",
     "slug": "duru-telephony-services",
     "status": "up",
-    "uptime": "89.44%",
+    "uptime": "89.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.20%",
-    "uptimeMonth": "85.50%",
-    "uptimeYear": "89.44%",
+    "uptimeWeek": "75.45%",
+    "uptimeMonth": "88.80%",
+    "uptimeYear": "89.48%",
     "time": 294,
-    "timeDay": 255,
-    "timeWeek": 267,
-    "timeMonth": 266,
+    "timeDay": 297,
+    "timeWeek": 262,
+    "timeMonth": 267,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2026-01-13": 1372,
@@ -158,9 +158,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 208,
-    "timeDay": 173,
-    "timeWeek": 183,
-    "timeMonth": 192,
+    "timeDay": 214,
+    "timeWeek": 189,
+    "timeMonth": 193,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-11-06": 16,

@@ -1,7 +1,7 @@
 url: https://api.duru.app/status/telephony
-status: down
-code: 400
-responseTime: 322
-lastUpdated: 2026-03-25T14:37:44.115Z
+status: up
+code: 200
+responseTime: 245
+lastUpdated: 2026-03-25T21:36:28.153Z
 startTime: 2025-05-15T11:42:53.158Z
 generator: Upptime <https://github.com/upptime/upptime>

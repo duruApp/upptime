@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 707,
-    "timeDay": 178,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 698,
+    "time": 706,
+    "timeDay": 393,
+    "timeWeek": 267,
+    "timeMonth": 238,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2025-11-03": 31
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 351,
-    "timeWeek": 412,
-    "timeMonth": 416,
-    "timeYear": 337,
+    "timeDay": 467,
+    "timeWeek": 425,
+    "timeMonth": 412,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-11-06": 10
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 129,
-    "timeDay": 96,
-    "timeWeek": 112,
-    "timeMonth": 112,
+    "timeDay": 110,
+    "timeWeek": 114,
+    "timeMonth": 111,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-11-06": 8
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 169,
-    "timeWeek": 198,
-    "timeMonth": 195,
+    "timeDay": 196,
+    "timeWeek": 201,
+    "timeMonth": 193,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2025-11-06": 7
@@ -85,14 +85,14 @@
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png",
     "slug": "duru-telephony-services",
     "status": "up",
-    "uptime": "80.61%",
+    "uptime": "80.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.81%",
-    "uptimeMonth": "36.70%",
+    "uptimeMonth": "36.75%",
     "uptimeYear": "80.53%",
     "time": 277,
-    "timeDay": 128,
-    "timeWeek": 209,
+    "timeDay": 235,
+    "timeWeek": 219,
     "timeMonth": 223,
     "timeYear": 277,
     "dailyMinutesDown": {
@@ -226,9 +226,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 196,
-    "timeDay": 130,
-    "timeWeek": 150,
-    "timeMonth": 151,
+    "timeDay": 138,
+    "timeWeek": 152,
+    "timeMonth": 149,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2025-11-06": 16,

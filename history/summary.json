@@ -84,16 +84,16 @@
     "url": "https://api.duru.app/status/telephony",
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png",
     "slug": "duru-telephony-services",
-    "status": "up",
-    "uptime": "81.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.64%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.59%",
+    "uptimeMonth": "92.97%",
     "uptimeYear": "79.91%",
     "time": 272,
-    "timeDay": 603,
-    "timeWeek": 272,
-    "timeMonth": 204,
+    "timeDay": 499,
+    "timeWeek": 289,
+    "timeMonth": 208,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-08-11": 21,
@@ -215,7 +215,8 @@
       "2026-05-20": 1309,
       "2026-05-19": 1440,
       "2026-05-18": 298,
-      "2026-05-21": 201
+      "2026-05-21": 201,
+      "2026-06-18": 0
     }
   },
   {

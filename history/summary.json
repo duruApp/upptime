@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 611,
-    "timeDay": 234,
-    "timeWeek": 225,
+    "timeDay": 0,
+    "timeWeek": 228,
     "timeMonth": 246,
     "timeYear": 390,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 513,
-    "timeWeek": 458,
-    "timeMonth": 450,
-    "timeYear": 415,
+    "timeDay": 0,
+    "timeWeek": 462,
+    "timeMonth": 446,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2025-11-06": 10
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 495,
-    "timeWeek": 466,
-    "timeMonth": 432,
+    "timeDay": 0,
+    "timeWeek": 474,
+    "timeMonth": 429,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2025-11-06": 8
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 605,
-    "timeWeek": 555,
-    "timeMonth": 520,
-    "timeYear": 261,
+    "timeDay": 0,
+    "timeWeek": 571,
+    "timeMonth": 516,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2025-11-06": 7
     }
@@ -85,15 +85,15 @@
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png",
     "slug": "duru-telephony-services",
     "status": "up",
-    "uptime": "84.43%",
+    "uptime": "84.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "79.84%",
     "time": 299,
-    "timeDay": 569,
-    "timeWeek": 466,
-    "timeMonth": 477,
+    "timeDay": 0,
+    "timeWeek": 470,
+    "timeMonth": 472,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2025-10-20": 638,
@@ -231,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 505,
-    "timeWeek": 460,
-    "timeMonth": 458,
+    "timeDay": 0,
+    "timeWeek": 459,
+    "timeMonth": 455,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-10-29": 30,

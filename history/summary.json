@@ -12,9 +12,9 @@
     "uptimeYear": "99.99%",
     "time": 611,
     "timeDay": 0,
-    "timeWeek": 219,
+    "timeWeek": 222,
     "timeMonth": 245,
-    "timeYear": 383,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2025-11-03": 31
     }
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 0,
-    "timeWeek": 441,
+    "timeWeek": 445,
     "timeMonth": 452,
     "timeYear": 417,
     "dailyMinutesDown": {
@@ -52,8 +52,8 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 0,
-    "timeWeek": 459,
-    "timeMonth": 433,
+    "timeWeek": 487,
+    "timeMonth": 434,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-11-06": 8
@@ -72,8 +72,8 @@
     "uptimeYear": "100.00%",
     "time": 243,
     "timeDay": 0,
-    "timeWeek": 563,
-    "timeMonth": 526,
+    "timeWeek": 594,
+    "timeMonth": 528,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2025-11-06": 7
@@ -85,14 +85,14 @@
     "icon": "https://raw.githubusercontent.com/duruapp/upptime/master/assets/telephone.png",
     "slug": "duru-telephony-services",
     "status": "up",
-    "uptime": "84.52%",
+    "uptime": "84.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "79.84%",
     "time": 299,
     "timeDay": 0,
-    "timeWeek": 450,
+    "timeWeek": 474,
     "timeMonth": 472,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -232,7 +232,7 @@
     "uptimeYear": "99.99%",
     "time": 235,
     "timeDay": 0,
-    "timeWeek": 456,
+    "timeWeek": 463,
     "timeMonth": 460,
     "timeYear": 246,
     "dailyMinutesDown": {

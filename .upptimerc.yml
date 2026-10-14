@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.duru.app
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/duruapp/upptime/master/assets/duru-logo.png
   name: Duru Uptime
   introTitle: "**Duru** Uptime monitoring"
   introMessage: Please get in touch with support@duru.app to resolve any problems.
